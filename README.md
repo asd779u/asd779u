@@ -29,9 +29,9 @@
 ```dart
 class AboutMe {
   const myTools = {
-    "FrontEnd" : { "HTML", "CSS", "jQuery", "Bootstrap 4" },
+    "FrontEnd" : { "HTML", "CSS", "jQuery", "Bootstrap 5" },
     "Editors" : { "VS Code", "Sublime Text" },
-    "Platforms" : { "Windows", "Linux" },
-    "OtherTools" : { "Git", "Figma Photoshop" }
+    "Platforms" : { "Windows"},
+    "OtherTools" : {"Figma Photoshop" }
   };
 }
