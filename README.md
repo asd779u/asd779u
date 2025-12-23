@@ -7,7 +7,7 @@
 
 [![facebook badge](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mhmd.ashrf.720205?locale=ar_AR)
 [![instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/moham779u/)
-[![telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](PUT-YOUR-TELEGRAM-LINK-HERE)
+[![telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](+970598244781)
 
 </div>
 
